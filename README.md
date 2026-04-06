@@ -1,3 +1,7 @@
+### Hi there 👋, Hello! My name is Nathan Hood
+#### Software Developer
+My name is Nathan Hood, I'm a student at Texas State Technical College - where I am currently pursuing an Associates in Applied Sciences in Programming. I enjoy working in languages such as C# and Lua, but certainly have experience in other spaces like Java, JavaScript, .NET, various SQL dialects, and more to come!
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nmhood&show_icons=true&theme=rose"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmhood&layout=compact"/>
 
