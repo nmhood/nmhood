@@ -13,7 +13,6 @@ I'm a student at Texas State Technical College - where I am currently pursuing a
 <img align="left" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>  
 <br/><br/>
 
-
 # Blog Posts (Check Back Soon!)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
